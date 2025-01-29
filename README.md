@@ -29,7 +29,7 @@ The **raw ePESSTO+ spectra** were **reduced and calibrated** following these ste
 - **Flux calibration** based on standard star observations  
 - **Telluric correction** applied via IRAF  
 
-** No Milky Way extinction corrections** were applied to the data.
+**No Milky Way extinction corrections** were applied to the data.
 The spectra have **not been re-calibrated** against the photometry.
 More details on the data reduction can be found in the **Spectroscopy** section of the paper.
 
@@ -41,8 +41,7 @@ If you use this data, please acknowledge **ePESSTO/ePESSTO+** in the acknowledge
 We also extend our thanks to **Joe Lyman and Matt Nicholl** for taking the **calibration data necessary for the EFOSC2 second-order correction**.  
 
 ## **License**  
-- **Data**: Released under **Creative Commons Zero v1.0 (CC0)** *(public domain, no restrictions)*.  
-- **Code (if applicable)**: MIT License.  
+- **Data**: Released under **Creative Commons Zero v1.0 (CC0)** *(public domain, no restrictions)*.    
 
 ## **Citation**  
 If you use this dataset, please cite:
