@@ -15,7 +15,7 @@ by **C. Vogl et al. (2024)**.
 
 #### **2. Text Files (`.txt`)**  
 - Plain-text spectral data with **two space-separated columns**:  
-  - **Column 1**: Wavelength (**Ångström**)  
+  - **Column 1**: Wavelength in air (**Ångström**)  
   - **Column 2**: Specific flux density **Fλ** (erg/s/cm²/Å)  
 - **No header row** in these files.  
 - Example format:  
