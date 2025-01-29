@@ -25,6 +25,3 @@ by **C. Vogl et al. (2024)**.
   3659.54509578339  2.459935E-16
   ...
   ```
-
-### **Contact & Citation**  
-If you use this data, please cite the paper and acknowledge **ePESSTO/ePESSTO+** as described in the main README. 
